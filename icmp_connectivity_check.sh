@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name: network_connectivity_check.sh
+# Script Name: icmp_connectivity_check.sh
 # Purpose: Check whether a host is reachable over the network.
 
 read -rp "Enter a hostname (e.g., google.com): " HOST
